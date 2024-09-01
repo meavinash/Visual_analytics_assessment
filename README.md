@@ -1,7 +1,8 @@
 **Synthetic Classifiers Analysis**
 
 **Overview**
-This project provides a detailed analysis of two classifiers trained on a synthetic dataset of images. The dataset consists of 10,000 images—7,000 dog images and 3,000 cat images—projected onto a 2-dimensional plane. The classifiers, named Classifier A and Classifier B, both achieve an accuracy of 75%, but this project aims to dig deeper into their performance and behavior through visualizations and interactive tools.
+
+This project provides a detailed analysis of two classifiers trained on a synthetic dataset of images. The dataset consists of 10,000 images out of which 7,000 are dog images and 3,000 are cat images—projected onto a 2-dimensional plane. The classifiers, named Classifier A and Classifier B, both achieve an accuracy of 75%, but this project aims to dig deeper into their performance and behavior through visualizations and interactive tools.
 
 **Problem Statement**
 Given that both classifiers have identical overall accuracy, the objective of this analysis is to:
