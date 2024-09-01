@@ -55,11 +55,15 @@ Output : ![Task1c](https://github.com/user-attachments/assets/2aa5e523-3102-47b0
 
 
 Task 2: Critical Analysis and Improvement
+
 2A: Identify and discuss a flaw in one of the proposed visualizations.
+
     Identified Flaw - **Class Imbalance Representation**
 
 2C: Propose a visualization modification to improve the analysis or suggest a way to extend the comparison to 20 classifiers.
+
     Modified Solution - **Bar chart comparison of Normalized Metrices of classified class (With Precision, Recall, F1 Score)**
+    
 ![Task2c](https://github.com/user-attachments/assets/4774331a-0c84-4d5c-aadc-5ca9af2b3920)
 
     
