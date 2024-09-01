@@ -50,7 +50,8 @@ Objective: Implement linked interactivity between the scatter plot and the bar c
 
 Visualization: When selecting points in the scatter plot, the bar chart dynamically updates to reflect the performance of the classifiers on the selected data points.
 
-Output : ![Task2c](https://github.com/user-attachments/assets/86574da9-065d-4f80-ac41-748734d43693)
+Output : ![Task1c](https://github.com/user-attachments/assets/2aa5e523-3102-47b0-91a5-620cc0199e73)
+
 
 
 Task 2: Critical Analysis and Improvement
