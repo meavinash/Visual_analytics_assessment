@@ -59,7 +59,7 @@ Task 2: Critical Analysis and Improvement
 2A: Identify and discuss a flaw in one of the proposed visualizations.
     
 
-Identified Flaw - Class Imbalance Representation
+Identified Flaw - **Class Imbalance Representation**
 
 
 2C: Propose a visualization modification to improve the analysis or suggest a way to extend the comparison to 20 classifiers.
