@@ -72,16 +72,29 @@ Modified Solution - **Bar chart comparison of Normalized Metrices of classified 
     
 
 Files in the Repository
+
 Task.ipynb: The main notebook containing all code, visualizations, and analysis.
+
 Synthetic_2_classifiers.csv: The dataset used for the analysis.
-Task1a.png, Task1b.png, Task1c.png, Task2c.png: Screenshots of the generated visualizations.
+
+Screenshots of the generated visualizations: 
+
+Task1a.png
+Task1b.png
+Task1c.png
+Task2c.png
 
 **How to Run**
+
 Clone the repository.
+
 Open Task.ipynb in Jupyter Notebook or any compatible environment.
+
 Ensure that Synthetic_2_classifiers.csv is in the same directory as the notebook.
+
 Run the notebook cells to reproduce the analysis and visualizations.
 
 
-Conclusion
+**Conclusion**
+
 **This project not only evaluates the performance of two classifiers but also highlights the importance of detailed analysis and visualization in understanding classifier behavior beyond just accuracy metrics. The interactive tools provided allow for an in-depth exploration of the classifiers' performance, offering insights that could inform further improvements.**
